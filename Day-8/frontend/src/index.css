@@ -29,3 +29,9 @@ html{
   padding-inline: 3rem;
   flex-wrap: wrap;
 }
+.note-created-form{
+  display: flex;
+  gap: 1rem;
+  padding-inline: 3rem;
+  padding-block: 1rem;
+}
